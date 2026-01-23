@@ -1,0 +1,5 @@
+C:\Users\Haley\Desktop\C--Masterclass\LessonExamples\LessonExamples\obj\Debug\net10.0\LessonExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\LessonExamples\LessonExamples\obj\Debug\net10.0\LessonExamples.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\LessonExamples\LessonExamples\obj\Debug\net10.0\LessonExamples.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\LessonExamples\LessonExamples\obj\Debug\net10.0\LessonExamples.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\LessonExamples\LessonExamples\obj\Debug\net10.0\LessonExamples.sourcelink.json

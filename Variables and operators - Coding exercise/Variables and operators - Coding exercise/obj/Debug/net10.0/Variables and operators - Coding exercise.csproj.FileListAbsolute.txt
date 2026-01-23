@@ -1,0 +1,5 @@
+C:\Users\Haley\Desktop\C--Masterclass\Variables and operators - Coding exercise\Variables and operators - Coding exercise\obj\Debug\net10.0\Variables and operators - Coding exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\Variables and operators - Coding exercise\Variables and operators - Coding exercise\obj\Debug\net10.0\Variables and operators - Coding exercise.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Variables and operators - Coding exercise\Variables and operators - Coding exercise\obj\Debug\net10.0\Variables and operators - Coding exercise.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\Variables and operators - Coding exercise\Variables and operators - Coding exercise\obj\Debug\net10.0\Variables and operators - Coding exercise.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Variables and operators - Coding exercise\Variables and operators - Coding exercise\obj\Debug\net10.0\Variables and operators - Coding exercise.sourcelink.json
