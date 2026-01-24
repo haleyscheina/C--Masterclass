@@ -16,42 +16,28 @@
             "[S]ubtract\n" +
             "[M]ultiply");
         string operation = Console.ReadLine();
-        string operationOperator ="";
-        int result = 0;
-        bool validInput = false;
         if (operation == "A" || operation == "a")
         {
-            validInput = true;
-            result = Calculate(firstNumberInt, "+", secondNumberInt);
-            operationOperator = "+";
+            Calculate(firstNumberInt, "+", secondNumberInt);
         }
         else if (operation == "S" || operation == "s")
         {
-            validInput = true;
-            result = Calculate(firstNumberInt, "-", secondNumberInt);
-            operationOperator = "-";
+            Calculate(firstNumberInt, "-", secondNumberInt);
         }
         else if (operation == "M" || operation == "m")
         {
-            validInput = true;
-            result = Calculate(firstNumberInt, "*", secondNumberInt);
-            operationOperator = "*";
+            Calculate(firstNumberInt, "*", secondNumberInt);
         }
         else
         {
-            validInput = false;
             Console.WriteLine("Invalid input!");
         }
 
-        if (validInput == true)
-        {
-            Console.WriteLine(firstNumberString + operationOperator + secondNumberString + "=" + result);
-        }
         Console.WriteLine("Press any key to close");
         Console.ReadKey();
     }
 
-    private static int Calculate(int a, string operation, int b)
+    private static void Calculate(int a, string operation, int b)
     {
         int result;
         if (operation == "+")
@@ -66,6 +52,6 @@
         {
             result = a * b;
         }
-        return result;
+        Console.WriteLine(a + operation + b + "=" + result);
     }
 }

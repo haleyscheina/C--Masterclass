@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
-              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\Calculator\\Program.cs*",
-              "RelativeToolTip": "Calculator\\Program.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\TodoList\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T21:46:15.678Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "TodoList\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T19:51:12.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T19:51:12.301Z"
             }
           ]
         }
