@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\String interpolation - FormatDate - Coding exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA865D54-4F2D-49FF-AD86-FCB47B94BBDB}|String interpolation - FormatDate - Coding exercise\\String interpolation - FormatDate - Coding exercise.csproj|c:\\users\\haley\\desktop\\c--masterclass\\string interpolation - formatdate - coding exercise\\string interpolation - formatdate - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA865D54-4F2D-49FF-AD86-FCB47B94BBDB}|String interpolation - FormatDate - Coding exercise\\String interpolation - FormatDate - Coding exercise.csproj|solutionrelative:string interpolation - formatdate - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\String interpolation - FormatDate - Coding exercise\\String interpolation - FormatDate - Coding exercise\\Program.cs",
+              "RelativeDocumentMoniker": "String interpolation - FormatDate - Coding exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\String interpolation - FormatDate - Coding exercise\\String interpolation - FormatDate - Coding exercise\\Program.cs*",
+              "RelativeToolTip": "String interpolation - FormatDate - Coding exercise\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T19:04:50.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
