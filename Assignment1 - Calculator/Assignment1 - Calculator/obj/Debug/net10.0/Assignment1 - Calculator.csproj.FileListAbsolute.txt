@@ -1,0 +1,15 @@
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\bin\Debug\net10.0\Assignment1 - Calculator.exe
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\bin\Debug\net10.0\Assignment1 - Calculator.deps.json
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\bin\Debug\net10.0\Assignment1 - Calculator.runtimeconfig.json
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\bin\Debug\net10.0\Assignment1 - Calculator.dll
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\bin\Debug\net10.0\Assignment1 - Calculator.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.sourcelink.json
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.dll
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\refint\Assignment1 - Calculator.dll
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\Assignment1 - Calculator.genruntimeconfig.cache
+C:\Users\Haley\Desktop\C--Masterclass\Assignment1 - Calculator\Assignment1 - Calculator\obj\Debug\net10.0\ref\Assignment1 - Calculator.dll
