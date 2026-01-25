@@ -1,58 +1,45 @@
-﻿using System.ComponentModel.Design;
-Console.WriteLine("Hello, World!");
-Console.WriteLine("[S]ee all TODOs]");
-Console.WriteLine("[A]dd a TODO");
-Console.WriteLine("[R]emove a TODO");
-Console.WriteLine("[E]xit");
-
-//reads line from console and stores it in userInput variable
-var userInput = Console.ReadLine();
-
-switch(userInput)
+﻿var number = 0;
+while (number <10)
 {
-    case "s":
-    case "S":
-        PrintSelectedOption("See all TODOs");
-        break;
-    case "a":
-    case "A":
-        PrintSelectedOption("Add a TODO");
-        break;
-    case "r":
-    case "R":
-        PrintSelectedOption("Remove a TODO");
-        break;
-    case "e":
-    case "E":
-        PrintSelectedOption("Exit");
-        break;
-    default:
-        Console.WriteLine("Invalid choice.");
-        break;
+    number = number + 1;
+    Console.WriteLine("Number is: " + number);
 }
+Console.WriteLine("The loop is finished.");
 
-//if (userInput == "S" || userInput == "s")
+//using System.ComponentModel.Design;
+//Console.WriteLine("Hello, World!");
+//Console.WriteLine("[S]ee all TODOs]");
+//Console.WriteLine("[A]dd a TODO");
+//Console.WriteLine("[R]emove a TODO");
+//Console.WriteLine("[E]xit");
+
+////reads line from console and stores it in userInput variable
+//var userInput = Console.ReadLine();
+
+//switch(userInput)
 //{
-//    PrintSelectedOption("See all TODOs");
-//}
-//else if (userInput == "A" || userInput == "a")
-//{
-//    PrintSelectedOption("Add a TODO");
-//}
-//else if (userInput == "R" || userInput == "r")
-//{
-//    PrintSelectedOption("Remove a TODO");
-//}
-//else if (userInput == "E" || userInput == "e")
-//{
-//    PrintSelectedOption("Exit");
-//}
-//else
-//{
-//    Console.WriteLine("Invalid choice.");
+//    case "s":
+//    case "S":
+//        PrintSelectedOption("See all TODOs");
+//        break;
+//    case "a":
+//    case "A":
+//        PrintSelectedOption("Add a TODO");
+//        break;
+//    case "r":
+//    case "R":
+//        PrintSelectedOption("Remove a TODO");
+//        break;
+//    case "e":
+//    case "E":
+//        PrintSelectedOption("Exit");
+//        break;
+//    default:
+//        Console.WriteLine("Invalid choice.");
+//        break;
 //}
     Console.ReadKey(); //preventing window from closing immediately
-void PrintSelectedOption(string selectedOption)
-{
-    Console.WriteLine("Selected option: " + selectedOption);
-}
+//void PrintSelectedOption(string selectedOption)
+//{
+//    Console.WriteLine("Selected option: " + selectedOption);
+//}
