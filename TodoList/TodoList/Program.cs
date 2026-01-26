@@ -1,17 +1,12 @@
-﻿string word;
-do
+﻿for (int i = 0; i < 5; i++)
 {
-    Console.WriteLine("Enter a word longer than 10 letters: ");
-    word = Console.ReadLine();
+    Console.WriteLine("Loop run " +i);
 }
-while (word.Length <= 10);
 
-//string word = "";
-//while(word.Length>=3)
-//{
-//    Console.WriteLine("Enter a word less than 3 letters: ");
-//    word = Console.ReadLine();
-//}
+for (int i = 10; i > 5; i--)
+{
+    Console.WriteLine("Loop run " + i);
+}
 
 //using System.ComponentModel.Design;
 //Console.WriteLine("Hello, World!");
