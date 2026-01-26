@@ -1,7 +1,11 @@
 ﻿var number = 0;
+var word = "abc";
+word += "d";
 while (number <10)
 {
-    number = number + 1;
+    //number = number + 1;
+    //number *= 2; //infinite loop, multiplying by 0*2
+    number++;
     Console.WriteLine("Number is: " + number);
 }
 Console.WriteLine("The loop is finished.");
