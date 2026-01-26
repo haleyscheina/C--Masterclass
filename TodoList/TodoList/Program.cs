@@ -1,15 +1,17 @@
-﻿Console.WriteLine("Enter a word:");
-var userInput = Console.ReadLine();
-
-while(userInput.Length < 15)
+﻿string word;
+do
 {
-    userInput += 'a';
-
-    Console.WriteLine(userInput);
+    Console.WriteLine("Enter a word longer than 10 letters: ");
+    word = Console.ReadLine();
 }
+while (word.Length <= 10);
 
-
-
+//string word = "";
+//while(word.Length>=3)
+//{
+//    Console.WriteLine("Enter a word less than 3 letters: ");
+//    word = Console.ReadLine();
+//}
 
 //using System.ComponentModel.Design;
 //Console.WriteLine("Hello, World!");
@@ -43,7 +45,7 @@ while(userInput.Length < 15)
 //        Console.WriteLine("Invalid choice.");
 //        break;
 //}
-    Console.ReadKey(); //preventing window from closing immediately
+Console.ReadKey(); //preventing window from closing immediately
 //void PrintSelectedOption(string selectedOption)
 //{
 //    Console.WriteLine("Selected option: " + selectedOption);
