@@ -1,12 +1,22 @@
-﻿for (int i = 0; i < 5; i++)
+﻿//for (var i = 0; i < 100; i++)
+//{
+//    Console.WriteLine("i is:  "+ i);
+//    if (i > 25)
+//    {
+//        break;
+//    }
+//}
+int userNumber;
+do
 {
-    Console.WriteLine("Loop run " +i);
-}
-
-for (int i = 10; i > 5; i--)
-{
-    Console.WriteLine("Loop run " + i);
-}
+    Console.WriteLine("Enter a number larger than 10:");
+    var userInput = Console.ReadLine();
+    if (userInput == "stop")
+    {
+        break;
+    }
+    userNumber = int.Parse(userInput);
+} while (userNumber <= 10);
 
 //using System.ComponentModel.Design;
 //Console.WriteLine("Hello, World!");
