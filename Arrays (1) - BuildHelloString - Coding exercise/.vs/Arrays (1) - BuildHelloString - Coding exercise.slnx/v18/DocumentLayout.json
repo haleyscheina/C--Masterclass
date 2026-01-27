@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Arrays (1) - BuildHelloString - Coding exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3228D1-450C-42C3-ABCE-F8C2DAAB06A7}|Arrays (1) - BuildHelloString - Coding exercise\\Arrays (1) - BuildHelloString - Coding exercise.csproj|c:\\users\\haley\\desktop\\c--masterclass\\arrays (1) - buildhellostring - coding exercise\\arrays (1) - buildhellostring - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3228D1-450C-42C3-ABCE-F8C2DAAB06A7}|Arrays (1) - BuildHelloString - Coding exercise\\Arrays (1) - BuildHelloString - Coding exercise.csproj|solutionrelative:arrays (1) - buildhellostring - coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Arrays (1) - BuildHelloString - Coding exercise\\Arrays (1) - BuildHelloString - Coding exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays (1) - BuildHelloString - Coding exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Arrays (1) - BuildHelloString - Coding exercise\\Arrays (1) - BuildHelloString - Coding exercise\\Program.cs",
+              "RelativeToolTip": "Arrays (1) - BuildHelloString - Coding exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T21:09:29.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
