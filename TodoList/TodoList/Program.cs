@@ -1,34 +1,32 @@
-﻿//int[] numbers = new int[5]; //initialized with int default value of 0
-//Console.WriteLine("Element at index 0: " + numbers[0]);
-//Console.WriteLine("Element at index 1: " + numbers[1]);
-//Console.WriteLine("Element at index 2: " + numbers[2]);
+﻿char[,] letters = new char[2, 3];
+letters[0, 0] = 'A';
+letters[0, 1] = 'B';
+letters[0, 2] = 'C';
+letters[1, 0] = 'D';
+letters[1, 1] = 'E';
+letters[1, 2] = 'F';
 
-//numbers[0] = 5;
-//numbers[1] = 6;
-//numbers[2] = 7;
-//numbers[3] = 17;
-//numbers[4] = 22;
-
-//int[] numbers = new int[] { 2, 6, 1, 6, 19 }; //init and skip inferred size
-var numbers = new[] { 2, 3, 1, 6, 19 }; //init and skip inferred type
-var sum = 0;
-for (var i = 0; i < numbers.Length; i++)
+var height = letters.GetLength(0); //first dimension from declaration
+var width = letters.GetLength(1); //second dimension from declaration
+Console.WriteLine($"Height is: {height}\nWidth is: {width}");
+for (var i = 0; i < height; i++)
 {
-    sum += numbers[i];
+    Console.WriteLine($"i is {i}");
+    for (var j = 0; j < width; j++)
+    {
+        Console.WriteLine($"j is {j}");
+        Console.WriteLine($"element is {letters[i, j]}");
+    }
 }
-Console.WriteLine($"Sum of elements is: {sum}");
-Console.WriteLine("Element at index 0: " + numbers[0]);
-Console.WriteLine("Element at index 1: " + numbers[1]);
-Console.WriteLine("Element at index 2: " + numbers[2]);
-Console.WriteLine("Element at index 3: " + numbers[3]);
-Console.WriteLine("Element at index 4: " + numbers[4]);
 
-//var firstFromEnd = numbers[numbers.Length - 1];
-//var secondFromEnd = numbers[numbers.Length - 2];
-//using the index from end operator:
-var firstFromEnd = numbers[^1];
-var secondFromEnd = numbers[^2];
-Console.WriteLine($"First from end: {firstFromEnd}\nSecond from end: {secondFromEnd}\n");
+var letters2 = new char[,]
+{
+    {'A', 'B', 'C'  },
+    { 'D', 'E', 'F' }
+};
+
+
+
 
 //using System.ComponentModel.Design;
 //Console.WriteLine("Hello, World!");
