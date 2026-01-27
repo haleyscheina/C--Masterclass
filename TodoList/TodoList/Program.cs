@@ -1,13 +1,34 @@
-﻿for (int i = 0; i < 4; i++)
-{
-    for (int j = 0; j < 3; j++)
-    {
-        for (int k = 0; k < 5; k++) {
-        Console.WriteLine($"i: {i}, j: {j}, k: {k}");
-        }
-    }
-}
+﻿//int[] numbers = new int[5]; //initialized with int default value of 0
+//Console.WriteLine("Element at index 0: " + numbers[0]);
+//Console.WriteLine("Element at index 1: " + numbers[1]);
+//Console.WriteLine("Element at index 2: " + numbers[2]);
 
+//numbers[0] = 5;
+//numbers[1] = 6;
+//numbers[2] = 7;
+//numbers[3] = 17;
+//numbers[4] = 22;
+
+//int[] numbers = new int[] { 2, 6, 1, 6, 19 }; //init and skip inferred size
+var numbers = new[] { 2, 3, 1, 6, 19 }; //init and skip inferred type
+var sum = 0;
+for (var i = 0; i < numbers.Length; i++)
+{
+    sum += numbers[i];
+}
+Console.WriteLine($"Sum of elements is: {sum}");
+Console.WriteLine("Element at index 0: " + numbers[0]);
+Console.WriteLine("Element at index 1: " + numbers[1]);
+Console.WriteLine("Element at index 2: " + numbers[2]);
+Console.WriteLine("Element at index 3: " + numbers[3]);
+Console.WriteLine("Element at index 4: " + numbers[4]);
+
+//var firstFromEnd = numbers[numbers.Length - 1];
+//var secondFromEnd = numbers[numbers.Length - 2];
+//using the index from end operator:
+var firstFromEnd = numbers[^1];
+var secondFromEnd = numbers[^2];
+Console.WriteLine($"First from end: {firstFromEnd}\nSecond from end: {secondFromEnd}\n");
 
 //using System.ComponentModel.Design;
 //Console.WriteLine("Hello, World!");
