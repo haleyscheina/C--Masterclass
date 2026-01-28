@@ -1,8 +1,39 @@
-﻿var words = new[] { "one", "two", "three", "four" };
+﻿var words = new List<string>
+{
+    "one",
+    "two",
+};
+
+words[0] = "eins";
+words[1] = "zwei";
+//words[2] = "element does not exist yet, cannot edit";
+Console.WriteLine($"Count of elements is: {words.Count}");
+
+words.Add("hello");
+Console.WriteLine($"Count of elements is: {words.Count}");
+
+words.Remove("zwei");
+words.Remove("nonexistent element"); //does nothing, no element matching argument
+words.RemoveAt(0);
+
+var moreWords = new[] { "drei", "vier", "fünf" };
+words.AddRange(moreWords);
+
+Console.WriteLine("Index of element 'vier' is " + words.IndexOf("vier"));
+Console.WriteLine("Index of element 'sechs' is " + words.IndexOf("sechs")); //returns -1, as "sechs" does not exist in the list
+
+//check if element exists in the list, returns bool
+Console.WriteLine($"Contains 'fünf'?: {words.Contains("fünf")}");
+Console.WriteLine($"Contains 'sieben'?: {words.Contains("sieben")}");
 foreach (var word in words)
 {
     Console.WriteLine(word);
 }
+
+words.Clear(); //removes all elements from the list
+Console.WriteLine($"Count of elements is: {words.Count}");
+
+
 
 
 
