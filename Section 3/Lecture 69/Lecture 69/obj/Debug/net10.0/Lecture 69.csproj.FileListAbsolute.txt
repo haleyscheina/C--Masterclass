@@ -1,0 +1,15 @@
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\bin\Debug\net10.0\Lecture 69.exe
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\bin\Debug\net10.0\Lecture 69.deps.json
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\bin\Debug\net10.0\Lecture 69.runtimeconfig.json
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\bin\Debug\net10.0\Lecture 69.dll
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\bin\Debug\net10.0\Lecture 69.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.sourcelink.json
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.dll
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\refint\Lecture 69.dll
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\Lecture 69.genruntimeconfig.cache
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 69\Lecture 69\obj\Debug\net10.0\ref\Lecture 69.dll
