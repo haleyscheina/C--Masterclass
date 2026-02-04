@@ -1,0 +1,15 @@
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\bin\Debug\net10.0\Lecture 75.exe
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\bin\Debug\net10.0\Lecture 75.deps.json
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\bin\Debug\net10.0\Lecture 75.runtimeconfig.json
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\bin\Debug\net10.0\Lecture 75.dll
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\bin\Debug\net10.0\Lecture 75.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.AssemblyInfoInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.AssemblyInfo.cs
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.csproj.CoreCompileInputs.cache
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.sourcelink.json
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.dll
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\refint\Lecture 75.dll
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.pdb
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\Lecture 75.genruntimeconfig.cache
+C:\Users\Haley\Desktop\C--Masterclass\Section 3\Lecture 75\Lecture 75\obj\Debug\net10.0\ref\Lecture 75.dll
