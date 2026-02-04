@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\The Triangle class - coding exercise 16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600E04F7-B18D-450A-978C-7D1193A86B92}|The Triangle class - coding exercise 16\\The Triangle class - coding exercise 16.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\the triangle class - coding exercise 16\\the triangle class - coding exercise 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600E04F7-B18D-450A-978C-7D1193A86B92}|The Triangle class - coding exercise 16\\The Triangle class - coding exercise 16.csproj|solutionrelative:the triangle class - coding exercise 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\The Triangle class - coding exercise 16\\The Triangle class - coding exercise 16\\Program.cs",
+              "RelativeDocumentMoniker": "The Triangle class - coding exercise 16\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\The Triangle class - coding exercise 16\\The Triangle class - coding exercise 16\\Program.cs",
+              "RelativeToolTip": "The Triangle class - coding exercise 16\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T17:22:23.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
