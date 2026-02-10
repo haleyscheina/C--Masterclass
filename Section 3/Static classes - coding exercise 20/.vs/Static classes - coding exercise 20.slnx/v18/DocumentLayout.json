@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Static classes - coding exercise 20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2913DFE9-2D87-4335-8E7D-6888CCE1BEF6}|Static classes - coding exercise 20\\Static classes - coding exercise 20.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\static classes - coding exercise 20\\static classes - coding exercise 20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2913DFE9-2D87-4335-8E7D-6888CCE1BEF6}|Static classes - coding exercise 20\\Static classes - coding exercise 20.csproj|solutionrelative:static classes - coding exercise 20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Static classes - coding exercise 20\\Static classes - coding exercise 20\\Program.cs",
+              "RelativeDocumentMoniker": "Static classes - coding exercise 20\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\Static classes - coding exercise 20\\Static classes - coding exercise 20\\Program.cs",
+              "RelativeToolTip": "Static classes - coding exercise 20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvygAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T18:50:12.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
