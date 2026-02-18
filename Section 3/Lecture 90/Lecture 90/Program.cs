@@ -23,19 +23,9 @@ Console.WriteLine(names.Format());
 
 Console.ReadLine();
 
-public class Names
+class NamesValidator
 {
-    private readonly List<string> _names = new List<string>();
-
-    public void AddName(string name)
-    {
-        if (IsValidName(name))
-        {
-            _names.Add(name);
-        }
-    }
-
-    private bool IsValidName(string name)
+    public bool IsValid(string name)
     {
         return
             name.Length >= 2 &&
@@ -43,20 +33,32 @@ public class Names
             char.IsUpper(name[0]) &&
             name.All(char.IsLetter);
     }
+}
 
-    public void ReadFromTextFile()
+class StringsTextualRepository
+{
+    private static readonly string Separator = Environment.NewLine;
+    public List<string> Read(string filePath)
     {
-        var fileContents = File.ReadAllText(BuildFilePath());
-        var namesFromFile = fileContents.Split(Environment.NewLine).ToList();
-        foreach (var name in namesFromFile)
-        {
-            AddName(name);
-        }
+        var fileContents = File.ReadAllText(filePath);
+        return fileContents.Split(Separator).ToList();
     }
 
-    public void WriteToTextFile() =>
-        File.WriteAllText(BuildFilePath(), Format());
+    public void Write(string filePath, List<string> strings) =>
+        File.WriteAllText(filePath, string.Join(Separator, strings));
 
+}
+public class Names
+{
+    private readonly List<string> _names = new List<string>();
+    private readonly NamesValidator _namesValidator = new NamesValidator();
+    public void AddName(string name)
+    {
+        if (_namesValidator.IsValid(name))
+        {
+            _names.Add(name);
+        }
+    }
     public string BuildFilePath()
     {
         //we could imagine this is much more complicated
