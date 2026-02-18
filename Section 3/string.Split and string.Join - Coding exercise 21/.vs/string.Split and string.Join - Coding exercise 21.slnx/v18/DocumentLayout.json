@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\string.Split and string.Join - Coding exercise 21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF585E-F483-46E3-83BA-4E08EEBB29A4}|string.Split and string.Join - Coding exercise 21\\string.Split and string.Join - Coding exercise 21.csproj|c:\\users\\haley\\desktop\\c--masterclass\\section 3\\string.split and string.join - coding exercise 21\\string.split and string.join - coding exercise 21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF585E-F483-46E3-83BA-4E08EEBB29A4}|string.Split and string.Join - Coding exercise 21\\string.Split and string.Join - Coding exercise 21.csproj|solutionrelative:string.split and string.join - coding exercise 21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\string.Split and string.Join - Coding exercise 21\\string.Split and string.Join - Coding exercise 21\\Program.cs",
+              "RelativeDocumentMoniker": "string.Split and string.Join - Coding exercise 21\\Program.cs",
+              "ToolTip": "C:\\Users\\Haley\\Desktop\\C--Masterclass\\Section 3\\string.Split and string.Join - Coding exercise 21\\string.Split and string.Join - Coding exercise 21\\Program.cs",
+              "RelativeToolTip": "string.Split and string.Join - Coding exercise 21\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:44:13.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
